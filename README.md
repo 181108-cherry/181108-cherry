@@ -45,5 +45,10 @@
 
 ## 📝 최근 블로그 포스트
 <!-- BLOG-POST-LIST:START -->
+- [👾 대용량 트래픽이란? | 개념, 발생 원인, 처리 방법](https://velog.io/@cherry181108/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%B4%EB%9E%80-%EA%B0%9C%EB%85%90-%EB%B0%9C%EC%83%9D-%EC%9B%90%EC%9D%B8-%EC%B2%98%EB%A6%AC-%EB%B0%A9%EB%B2%95)
+- [Hub API 403 Forbidden 디버깅](https://velog.io/@cherry181108/Hub-API-403-Forbidden-%EB%94%94%EB%B2%84%EA%B9%85)
+- [📌 logistics-service 프로젝트 설정](https://velog.io/@cherry181108/logistics-service-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EC%A0%95)
+- [🐰 AI 기반 PR 자동 리뷰 도구,  코드래빗&lpar;CodeRabbit&rpar;](https://velog.io/@cherry181108/AI-%EA%B8%B0%EB%B0%98-PR-%EC%9E%90%EB%8F%99-%EB%A6%AC%EB%B7%B0-%EB%8F%84%EA%B5%AC-%EC%BD%94%EB%93%9C%EB%9E%98%EB%B9%97CodeRabbit)
+- [IaC의 개념과 Terraform 핵심 정리](https://velog.io/@cherry181108/IaC%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-Terraform-%ED%95%B5%EC%8B%AC-%EC%A0%95%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
